@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="srt.inz.crimereport"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="22" />
+    
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+	<uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" android:name="ApplicationPreference">
+        <activity
+            android:name="SplashScreen"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="MainPage"></activity>
+        <activity android:name="User_reg"></activity>
+        <activity android:name="User_home"></activity>
+        <activity android:name="Report_crime"></activity>
+        <activity android:name="Help_center"></activity>
+        <activity android:name="Law_points"></activity>
+        <activity android:name="Admin_home"></activity>
+        <activity android:name="Update_law"></activity>
+        <activity android:name="Approve_user"></activity>
+        <activity android:name="Update_helpcenter"></activity>
+        <activity android:name="Viewcrimes"></activity>
+        <activity android:name="Updatestatus"></activity>
+        <activity android:name="View_crimestat"></activity>
+        <activity android:name="UpdateNewsfeed"></activity>
+        <activity android:name="Moblocator"></activity>
+        <meta-data
+    		android:name="com.google.android.maps.v2.API_KEY"
+    		android:value="AIzaSyBmn3QIbPfMNX3k5PzQHJ6y9KLamgK8Fhg"/>
+        <service android:name="srt.inz.services.MyCrLocationService"></service>
+        <service android:name="srt.inz.services.MyNotificationService"></service>
+        <activity android:name="Adminaddofficer"></activity>
+        <activity android:name="Officer_home"></activity>
+    </application>
+
+</manifest>

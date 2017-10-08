@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/crime_bg2" >
+    
+    <TextView
+        android:id="@+id/texthelpc2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="26dp"
+        android:layout_marginTop="19dp"
+        android:text="HELP CENTERS :"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+    <ListView
+        android:id="@+id/listViewhelp2"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignLeft="@+id/texthelpc2"
+        android:layout_below="@+id/texthelpc2" >
+
+    </ListView>
+
+    <Spinner
+        android:id="@+id/spinner_dst"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/listViewhelp2"
+        android:layout_alignRight="@+id/button1_uphcenter"
+        android:layout_below="@+id/listViewhelp2"
+        android:layout_marginTop="20dp" />
+
+    <EditText
+        android:id="@+id/editText_hadd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/spinner_dst"
+        android:layout_alignRight="@+id/button1_uphcenter"
+        android:layout_below="@+id/spinner_dst"
+        android:layout_marginTop="25dp"
+        android:ems="10"
+        android:hint="Helpline Address"
+        android:inputType="textPostalAddress"
+        android:textColor="#ffffff"
+        android:textColorHint="#ffffff" />
+
+    <EditText
+        android:id="@+id/editText_helpcontact"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editText_hadd"
+        android:layout_alignRight="@+id/button1_uphcenter"
+        android:layout_below="@+id/editText_hadd"
+        android:layout_marginTop="15dp"
+        android:ems="10"
+        android:hint="Helpline Contact No:"
+        android:inputType="phone"
+        android:textColor="#ffffff"
+        android:textColorHint="#ffffff" />
+
+    <Button
+        android:id="@+id/button1_uphcenter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/editText_helpcontact"
+        android:layout_marginRight="33dp"
+        android:layout_marginTop="15dp"
+        android:text="Update Center"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+</RelativeLayout>

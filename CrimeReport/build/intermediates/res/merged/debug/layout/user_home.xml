@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/crime_bg2" >
+
+    <ImageView
+        android:id="@+id/imageView_crlaw"
+        android:layout_width="280dp"
+        android:layout_height="90dp"
+        android:layout_alignLeft="@+id/imageView_crreport"
+        android:layout_below="@+id/imageView_crreport"
+        android:layout_marginTop="19dp"
+        android:src="@drawable/cr_law" />
+
+    <TextView
+        android:id="@+id/mtxt_news"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imageView_crreport"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="25dp"
+        android:text="News Feeds"
+        android:textColor="#fff"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <ListView
+        android:id="@+id/mlist_news"
+        android:layout_width="wrap_content"
+        android:layout_height="160dp"
+        android:layout_alignLeft="@+id/imageView_crreport"
+        android:layout_alignRight="@+id/imageView_crreport"
+        android:layout_below="@+id/img_btadd" >
+
+    </ListView>
+
+    <ImageView
+        android:id="@+id/imageView_crhelp"
+        android:layout_width="280dp"
+        android:layout_height="90dp"
+        android:layout_alignLeft="@+id/imageView_crlaw"
+        android:layout_below="@+id/imageView_crlaw"
+        android:layout_marginTop="18dp"
+        android:src="@drawable/cr_help" />
+
+    <ImageButton
+        android:id="@+id/img_btadd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="24dp"
+        android:layout_marginTop="13dp"
+        android:src="@android:drawable/ic_input_add" />
+
+    <ImageView
+        android:id="@+id/imageView_crreport"
+        android:layout_width="280dp"
+        android:layout_height="90dp"
+        android:layout_below="@+id/mlist_news"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/cr_report" />
+
+    <Button
+        android:id="@+id/mlgbtttt"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="Logout"
+        android:textColor="#fff"
+        android:textSize="20dp"
+        android:textStyle="bold" 
+        android:onClick="mysystemlogut" />
+
+</RelativeLayout>

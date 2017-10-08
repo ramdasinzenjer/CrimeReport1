@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@drawable/crime_bg2">
+
+    <Button
+        android:id="@+id/button_report"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editText_incident"
+        android:layout_alignRight="@+id/editText_incident"
+        android:layout_below="@+id/textView_date"
+        android:layout_marginTop="15dp"
+        android:text="Report"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+    <Spinner
+        android:id="@+id/spinner_loc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editText_incident"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/editText_incident"
+        android:layout_marginTop="52dp" />
+
+    <Spinner
+        android:id="@+id/spinner_sect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/spinner_loc"
+        android:layout_alignRight="@+id/spinner_loc"
+        android:layout_below="@+id/spinner_loc"
+        android:layout_marginTop="10dp" />
+
+    <Button
+        android:id="@+id/button1_viewreptdcrimes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/button_report"
+        android:layout_alignRight="@+id/button_report"
+        android:layout_below="@+id/button_report"
+        android:layout_marginTop="10dp"
+        android:text="View Status"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editText_incident"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:layout_below="@+id/spinner_sect"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="19dp"
+        android:background="@drawable/edit_back"
+        android:ems="10"
+        android:hint="Enter Your complaint here:"
+        android:padding="5dp"
+        android:textColor="#ffffff"
+        android:textColorHint="#ffffff" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/textView_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editText_incident"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="88dp"
+        android:text="Date and Time"
+        android:textColor="#ffffff" />
+
+    <!-- <ImageButton
+        android:id="@+id/imgbtloc"
+        android:layout_width="40dp"
+        android:layout_height="35dp"
+        android:layout_alignRight="@+id/button_report"
+        android:layout_alignTop="@+id/editTextmloc"
+        android:src="@android:drawable/ic_menu_mylocation" /> -->
+
+    <!-- <EditText
+        android:id="@+id/editTextmloc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editText_incident"
+        android:layout_alignRight="@+id/textView_date"
+        android:layout_below="@+id/editText_incident"
+        android:layout_marginTop="36dp"
+        android:background="@drawable/edit_back"
+        android:ems="10"
+        android:hint="Location :"
+        android:padding="5dp"
+        android:textColor="#ffffff"
+        android:textColorHint="#ffffff" /> -->
+
+</RelativeLayout>

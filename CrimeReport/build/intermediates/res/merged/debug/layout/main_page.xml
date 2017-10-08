@@ -1,0 +1,74 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}"
+    android:background="@drawable/crime_bg2" >
+
+    <EditText
+        android:id="@+id/editText_uid"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="139dp"
+        android:hint="User ID"
+        android:textColorHint="#ffffff"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:background="@drawable/edit_back"
+        android:ems="10"
+        android:paddingLeft="5dp" />
+
+    <EditText
+        android:id="@+id/editText_pwd"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_alignLeft="@+id/editText_uid"
+        android:layout_alignRight="@+id/button_log"
+        android:layout_below="@+id/editText_uid"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/edit_back"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:paddingLeft="5dp"
+        android:textColor="#ffffff"
+        android:textColorHint="#ffffff"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button_log"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/editText_uid"
+        android:layout_below="@+id/editText_pwd"
+        android:layout_marginTop="25dp"
+        android:text="Log in"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button_reg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/button_log"
+        android:layout_alignBottom="@+id/button_log"
+        android:layout_alignLeft="@+id/editText_pwd"
+        android:layout_marginLeft="31dp"
+        android:text="Register"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+    <Spinner
+        android:id="@+id/spinner_cardtyp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editText_uid"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/editText_uid"
+        android:layout_marginTop="56dp" />
+
+
+
+</RelativeLayout>

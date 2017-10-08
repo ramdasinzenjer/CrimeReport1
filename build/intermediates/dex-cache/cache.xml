@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-11.0.4_7f8ebed7db298ab59dec075d8f7c057c57c0385d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-11.0.4_7e83ae5e557246035fd27d6f8aeeec4b5aa6c932.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-11.0.4_c64fd51bff25c435082efc353d110a6f0d0500ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-11.0.4_5e87d8e0f64134508de5fdf9153f1895b35515d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-11.0.4_e6b6414f40bdb9ef95d2baaa86fbd45f602bb428.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-11.0.4_65e2f2334e687e9526918b3f9334ea1560543deb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-11.0.4_6d92aa5c50637751951f0a6b2ad8967979cc0e24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.firebase\firebase-database\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-11.0.4_57f79563b548f8634577ae70c702a9f48dd4db47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-11.0.4_252291ee7f80a5253d896e5ae98ef27706092aed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_800f935239d991f77aa50e0ac989646b91bb7279.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-11.0.4_e95241be2fc8181c172dc8e43831c13de2b9e643.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-v4-impl-11.0.4_9f27b2c55a56f8cc59f3712355dfebd730f33ed1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_1e29f9e25564f61bd67a8bce5166914835203431.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-11.0.4_dc26c342c27bcb9fc2a5334c0a24be38af8905c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-11.0.4_0f0ca3cbaa49cfde5f547b4f5d10c5e58ada7b91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_0ea1b96d801d9624cfe5277b77b808780b53b957.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-awareness-11.0.4_1f858652a09707ea14e53bf5035aca8acf34102c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\ANDROID\ANDROID_SDK_64_BIT_SDK_&amp;_ECLIPSE\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_8a2752a700895aad924691232576fcf6d105b84b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-11.0.4_9672a9cf09517e25b761a3e7e9412cc2c0808d57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-11.0.4_46065f400df610398431482cb693c1bfca2ce49d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-11.0.4_f43a2c4996a2373fd0ca2520c6c5be24908ffb07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-11.0.4_2b1bd8d7f45cb904f3ea35b99df6a274b563a1d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_933a59db2930434305824b493668d29a71cb910a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-11.0.4_3dc93d420103da769d89a10ca176a60d6209adfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-instantapps-11.0.4_a19e733dd17f7004a7f9cea79aadb243e703c089.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-11.0.4_3f5c2e7eadc7643e3c76bcb8cc64808c1e2752f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-11.0.4_3ca41bbed880b2191ea3d6f05ccccb6d74f54eaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_567c23d429a1ecbc8b20c3b940c4b999240da76a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-11.0.4_006a577d4ee2b935297740858c04baa17fb816de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.firebase\firebase-dynamic-links\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-dynamic-links-11.0.4_cfc5ef146ddf2ea7c5c042fa7b14fae3d21e2a97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-11.0.4_c61238a809dc04ad883be952580d94a5fb4db2bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.firebase\firebase-config\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-11.0.4_1dea1cb40d5f4f46b39bce1b5419b642717c830f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-11.0.4_02914cd2cdaeb9efc9437591bdc91902e46c940e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.android.support\palette-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-25.2.0_fb53677f99aff8a771507b64be29104d2a6b7d43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-appindexing-11.0.4_b62a2b6c1633328227a46fe0f3daac8fc43f7b0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-api-phone\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-api-phone-11.0.4_caa0d275f2a22d7781bf67dba56f85421a5c42f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.0.4_c0b8e8babe6d0cd0d4e5f5d1e706d18d0aa460cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-11.0.4_29b35a60e8f303ad473eaf4ee5584218cc7a322e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-11.0.4_736a7906928068948122c1b518940d717f4a8aad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-11.0.4_c83a9c837018b4704b00db7814ec447eb35480e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-11.0.4_a1384c708d791d2913e7e56f81d672c7cfa651b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_a26689aa6d895771abfb49308eb06ee195ac50f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-11.0.4_b645f13faa88856c8d00d94a5efe9a067f631dcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-11.0.4_04ecbf083db1826f51d0fe7b19913907280f14b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-11.0.4_5c5558d49bb3b27751ed23a417e31fa65eeb00d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-11.0.4_c087dc5dc3536008adc2ef82af6c827d0afac62a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.0.4_d6beb2b0d4f72513a614fb8f08e294b55b0ad3a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-25.2.0_60e6b2ed3beddcac2719389bada9e3fb90f13678.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-11.0.4_aabdb61734dc9e722b296e080994f4212254fdcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-11.0.4_1d678c8008fce1a3d69e85f997422d6d345e293c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision-common\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-common-11.0.4_369b1b1f671dec8bdd955add499f665c9ad3451e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-11.0.4_ee11ad0b5f09877c7fa58276ef2d3d94e9bac737.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-11.0.4_c46f9b800cbbe444bc15c34faf46b79e6c92dbcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_b9cd7b48ea706e12f2b81419e9d8e0f796f09046.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-11.0.4_938ba14fb1a607e98f6141b5ab5a477718884cbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_8fbf629005075cd999c6e6ead158114107aebee8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-11.0.4_badcf53319019ca6213d43633c0e1d8964c0bf52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-11.0.4_d7d6cf9b6de8ee0838702658908533a6c2cdf237.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_412b777930c175bab6e00dc7a5eb3c8f972ebda8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-11.0.4_788d3c06ddfe6697b68be525878e5263e488e3e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-11.0.4_4e66d7650d2493b681b0aeafab92c6c4eb9647d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-11.0.4_64ab0574b95b0f9cf8c4c75395ef06b7830fa2e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="C:\Users\SUDHEESH\Desktop\Project\CrimeReport1\CrimeReport\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-11.0.4_f12b0c27895400c3b4f875858189de9f1877d444.jar" />
+    </item>
+
+</items>

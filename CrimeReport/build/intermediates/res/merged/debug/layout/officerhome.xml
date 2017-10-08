@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/crime_bg2" >
+
+    <Button
+        android:id="@+id/mlogbt2"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:onClick="syslogout"
+        android:text="Logout"
+        android:textColor="#fff"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:id="@+id/img_btadd012"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="25dp"
+        android:layout_toRightOf="@+id/button_vahelp2"
+        android:src="@android:drawable/ic_input_add" />
+
+    <Button
+        android:id="@+id/button_vcrime2"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:layout_below="@+id/button_vahelp2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="18dp"
+        android:text="View Reported Crimes"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button_vahelp2"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:layout_alignLeft="@+id/button_vcrime2"
+        android:layout_alignRight="@+id/button_vcrime2"
+        android:layout_below="@+id/mlist_news012"
+        android:layout_marginTop="19dp"
+        android:text="Help Centers"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/mtxt_news012"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/img_btadd012"
+        android:layout_marginLeft="38dp"
+        android:text="News Feeds"
+        android:textColor="#fff"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <ListView
+        android:id="@+id/mlist_news012"
+        android:layout_width="wrap_content"
+        android:layout_height="160dp"
+        android:layout_alignLeft="@+id/mtxt_news012"
+        android:layout_alignRight="@+id/img_btadd012"
+        android:layout_below="@+id/img_btadd012"
+        android:padding="10dp" >
+
+    </ListView>
+
+</RelativeLayout>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/crime_bg2" >
+
+    <Button
+        android:id="@+id/button_vulaw"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:layout_alignLeft="@+id/button_vauser"
+        android:layout_alignRight="@+id/button_vauser"
+        android:layout_below="@+id/button_vauser"
+        android:layout_marginTop="10dp"
+        android:text="Update Law Points"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button_vahelp"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:layout_alignLeft="@+id/button_vulaw"
+        android:layout_alignRight="@+id/button_vulaw"
+        android:layout_below="@+id/button_vulaw"
+        android:layout_marginTop="10dp"
+        android:text="Update Help Centers"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button_vcrime"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:layout_alignLeft="@+id/button_vahelp"
+        android:layout_alignRight="@+id/button_vahelp"
+        android:layout_below="@+id/button_vahelp"
+        android:layout_marginTop="10dp"
+        android:text="View Reported Crimes"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button_vauser"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="234dp"
+        android:text="View and Approve Users"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:id="@+id/img_btadd01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/mtxt_news01"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="41dp"
+        android:src="@android:drawable/ic_input_add" />
+
+    <TextView
+        android:id="@+id/mtxt_news01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/mlist_news01"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="20dp"
+        android:text="News Feeds"
+        android:textColor="#fff"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <ListView
+        android:id="@+id/mlist_news01"
+        android:layout_width="wrap_content"
+        android:layout_height="160dp"
+        android:layout_alignLeft="@+id/button_vauser"
+        android:layout_alignRight="@+id/img_btadd01"
+        android:layout_below="@+id/img_btadd01"
+        android:layout_marginTop="18dp" >
+
+    </ListView>
+
+    <Button
+        android:id="@+id/mlogbt"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="Logout"
+        android:textColor="#fff"
+        android:textSize="20dp"
+        android:textStyle="bold" 
+        android:onClick="syslogout"/>
+
+    <Button
+        android:id="@+id/mbtaddofficer"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:text="Add Officer"
+        android:textColor="#fff"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

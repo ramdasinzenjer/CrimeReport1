@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/crime_bg2" >
+    
+    <ScrollView
+        android:id="@+id/scroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        
+         >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" 
+            android:padding="10dp">
+            <TextView 
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Register Here:"
+                android:textSize="20dp"
+                android:textColorHint="#ffffff"
+                android:textColor="#ffffff"
+                android:gravity="center_horizontal"
+                android:textStyle="bold|italic"/>
+
+          <EditText
+                android:id="@+id/et_nam"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="Name"
+                android:textColor="#ffffff"
+                android:textColorHint="#ffffff"
+                android:inputType="textPersonName" >
+
+            </EditText>
+            <EditText
+                android:id="@+id/et_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="Email id"
+                android:textColorHint="#ffffff"
+                android:layout_marginTop="5dp"
+                 android:textColor="#ffffff"
+                android:inputType="textEmailAddress" >
+
+            </EditText>
+            <EditText
+                android:id="@+id/et_phone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                 android:textColor="#ffffff"
+                 android:textColorHint="#ffffff"
+                android:hint="Phone number"
+                android:layout_marginTop="5dp"
+                android:inputType="phone" >
+
+            </EditText>
+              <Spinner
+                android:id="@+id/sp_dist"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:ems="10"
+                android:textColor="#ffffff"
+                 >
+            </Spinner>
+
+         
+		<EditText
+                android:id="@+id/et_uid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="Adhar or Voters ID"
+                 android:textColor="#ffffff"
+                 android:textColorHint="#ffffff"
+                android:layout_marginTop="5dp"
+                android:inputType="textPersonName" >
+
+            </EditText>
+            <RadioGroup
+             android:id="@+id/radioGroupUsr"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="5dp"
+             android:orientation="horizontal"
+             android:weightSum="2" >
+		
+		    <RadioButton
+		        android:id="@+id/radio0usr"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:checked="true"
+		        android:text="Adhar Card ID"
+		        android:textColor="#ffffff"
+		        android:layout_weight="1"
+		         />
+		
+		    <RadioButton
+		        android:id="@+id/radio1usr"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="Voter ID"
+		        android:textColor="#ffffff"
+		        android:layout_weight="1"
+		         />
+		
+		</RadioGroup>
+            <EditText
+                android:id="@+id/et_addr"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                 android:textColor="#ffffff"
+                 android:textColorHint="#ffffff"
+                android:ems="10"
+                android:hint="Postal Address"
+                android:layout_marginTop="5dp"
+                android:inputType="textPostalAddress" >
+
+            </EditText>
+            
+          
+          <EditText
+                android:id="@+id/et_ps"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                 android:textColor="#ffffff"
+                 android:textColorHint="#ffffff"
+                android:hint="Password"
+                android:layout_marginTop="5dp"
+                android:inputType="textPassword" >
+
+            </EditText>
+
+          <EditText
+              android:id="@+id/et_cps"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginTop="5dp"
+              android:ems="10"
+              android:hint="Confirm Password"
+              android:inputType="textPassword"
+              android:textColorHint="#ffffff"
+              android:textColor="#ffffff" >
+
+              
+          </EditText>
+         
+             <Button 
+                 android:id="@+id/bt_register"
+                 android:layout_width="wrap_content"
+                 android:layout_height="40dp"
+                 android:layout_gravity="right"
+                 android:text="Register"
+                  android:textColor="#ffffff"
+                 />
+             
+            
+        </LinearLayout>
+    </ScrollView>
+    
+    
+
+</RelativeLayout>

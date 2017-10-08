@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/crime_bg2" >
+
+    <Button
+        android:id="@+id/button_uplaw"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/editText_year"
+        android:layout_below="@+id/editText_year"
+        android:layout_marginTop="14dp"
+        android:text="Update Law"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editText_year"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editText_details"
+        android:layout_below="@+id/editText_details"
+        android:layout_marginTop="17dp"
+        android:ems="10"
+        android:hint="Year"
+        android:inputType="number"
+        android:textColorHint="#ffffff"
+        android:textColor="#ffffff" />
+
+    <EditText
+        android:id="@+id/editText_details"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_alignLeft="@+id/editText_sect"
+        android:layout_alignTop="@+id/editText_sect"
+        android:layout_marginTop="49dp"
+        android:ems="10"
+        android:hint="Law Details"
+        android:textColorHint="#ffffff"
+        android:textColor="#ffffff" />
+
+    <EditText
+        android:id="@+id/editText_sect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="191dp"
+        android:ems="10"
+        android:hint="Section"
+        android:textColorHint="#ffffff"
+        android:textColor="#ffffff" />
+
+    <ListView
+        android:id="@+id/listView_vwlaw"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/editText_details"
+        android:layout_alignLeft="@+id/editText_sect"
+        android:layout_marginBottom="28dp"
+        android:layout_below="@+id/textViewlawpnts" >
+
+    </ListView>
+
+    <TextView
+        android:id="@+id/textViewlawpnts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="30dp"
+        android:text="Law Points : "
+        android:textColor="#ffffff"  />
+
+</RelativeLayout>
